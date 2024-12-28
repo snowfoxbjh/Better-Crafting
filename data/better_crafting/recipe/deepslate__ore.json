@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#$#",
+    "$#$",
+    "#$#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:deepslate"
+    },
+    "$": {
+      "item": "minecraft:"
+    }
+  },
+  "result": {
+    "id": "minecraft:deepslate__ore",
+    "count": 4
+  }
+}
